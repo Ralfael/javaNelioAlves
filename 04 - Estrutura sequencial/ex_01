@@ -19,7 +19,12 @@ public class Main {
 		System.out.println("Products:");
 		System.out.printf("%s, which price is $%.2f\n", product1, price1);
 		System.out.printf("%s, which price is $%.2f", product2, price2);
-		
+		System.out.println("\n");
+		System.out.printf("Record: %d years old, code %d and gender: %c", age, code, gender);
+		System.out.println("\n");
+		System.out.printf("");
+		System.out.printf("Measure with eight decimal places: %f\n", measure);
+		System.out.printf("Us decimal point: %.3f", measure);
 		
 	}
 
