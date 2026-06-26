@@ -1,4 +1,4 @@
-<img src="cover.jpeg" align="right" height="90" /> >
+<img src="cover.jpeg" align="right" height="70" /> 
 
 # Curso Java Completo - Nélio Alves
 
