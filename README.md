@@ -1,6 +1,6 @@
-<img src="cover.jpeg" align="right" height="70" /> 
+<img src="cover.jpeg" align="right" height="60" /> 
 
-# Curso Java Completo - Nélio Alves
+## Curso Java Completo - Nélio Alves
 
 
 
@@ -29,12 +29,11 @@
 - [ ] Módulo 23 — API REST
 - [ ] Módulo 24 — Projeto final
 
-___
-## **Projetos**
+
+## Projetos
 
 - [ ] Projeto: Sistema de Conta Bancária
 - [ ] Projeto: Sistema de Pedido
 - [ ] Projeto: Jogo de Xadrez
 - [ ] Projeto: API REST com Spring Boot
 
-____
