@@ -9,9 +9,9 @@
 - [x] Módulo 03 — Introdução à linguagem Java
 - [x] Módulo 04 — Estrutura sequencial
 - [x] Módulo 05 — Estrutura condicional
-- [ ] Módulo 06 — Estruturas repetitivas
-- [ ] Módulo 07 — Outros tópicos básicos de Java
-- [ ] Módulo 08 — Introdução à Programação Orientada a Objetos (POO)
+- [x] Módulo 06 — Estruturas repetitivas
+- [x] Módulo 07 — Outros tópicos básicos de Java
+- [x] Módulo 08 — Introdução à Programação Orientada a Objetos (POO)
 - [ ] Módulo 09 — Construtores, palavra `this`, sobrecarga, encapsulamento
 - [ ] Módulo 10 — Arrays e Listas
 - [ ] Módulo 11 — Tópicos especiais em Java (Data/Hora)
